@@ -1,2 +1,4 @@
 # hello-world
-learning git basics.
+Learning git basics.
+
+Making some changes in this file.
